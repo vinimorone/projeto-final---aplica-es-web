@@ -1,0 +1,217 @@
+{
+    "empregos": [
+        {
+            "cargo": "Desenvolvedor Mobile",
+            "empresa": "MobileInnovate",
+            "localizacao": "Curitiba, PR",
+            "contato": "contato@mobileinnovate.com.br",
+            "descricao": "Procuramos um desenvolvedor mobile apaixonado por criar aplicativos inovadores. Experiência em Flutter ou React Native é desejada."
+        },
+        {
+            "cargo": "Analista de Segurança da Informação",
+            "empresa": "CyberGuard",
+            "localizacao": "Recife, PE",
+            "contato": "contato@cyberguard.com.br",
+            "descricao": "Estamos em busca de um analista de segurança da informação para fortalecer nossas defesas cibernéticas. Certificação CISSP é um diferencial."
+        },
+        {
+            "cargo": "Gerente de Projetos",
+            "empresa": "ProjectMasters",
+            "localizacao": "Porto Alegre, RS",
+            "contato": "contato@projectmasters.com.br",
+            "descricao": "Procuramos um gerente de projetos experiente para liderar equipes em projetos desafiadores. Certificação PMP é desejada."
+        },
+        {
+            "cargo": "Analista de Marketing Digital",
+            "empresa": "DigitalBuzz",
+            "localizacao": "Brasília, DF",
+            "contato": "contato@digitalbuzz.com.br",
+            "descricao": "Se você é apaixonado por marketing digital, SEO e análise de dados, queremos ouvir de você. Experiência em campanhas digitais é essencial."
+        },
+        {
+            "cargo": "Designer de UX/UI",
+            "empresa": "PixelPerfect",
+            "localizacao": "Florianópolis, SC",
+            "contato": "contato@pixelperfect.com.br",
+            "descricao": "Estamos em busca de um designer de UX/UI para criar experiências incríveis. Familiaridade com ferramentas como Sketch e Figma é um diferencial."
+        },
+        {
+            "cargo": "Analista de Dados",
+            "empresa": "DataAnalytics",
+            "localizacao": "Belo Horizonte, MG",
+            "contato": "contato@dataanalytics.com.br",
+            "descricao": "Procuramos um analista de dados qualificado com habilidades em SQL, Python e visualização de dados. Experiência em análise preditiva é um plus."
+        },
+        {
+            "cargo": "Desenvolvedor Front-end",
+            "empresa": "CodeCrafters",
+            "localizacao": "Fortaleza, CE",
+            "contato": "contato@codecrafters.com.br",
+            "descricao": "Estamos em busca de um desenvolvedor front-end apaixonado por criar interfaces incríveis. Experiência em React, Angular ou Vue.js é desejada."
+        },
+        {
+            "cargo": "Engenheiro de Software",
+            "empresa": "TechInnovate",
+            "localizacao": "Lisboa, Portugal",
+            "contato": "contato@techinnovate.pt",
+            "descricao": "Procuramos um engenheiro de software talentoso para trabalhar em projetos inovadores. Conhecimento em Java, Spring e bancos de dados SQL é necessário."
+        },
+        {
+            "cargo": "Analista de Marketing",
+            "empresa": "BrandBoost",
+            "localizacao": "Porto, Portugal",
+            "contato": "contato@brandboost.pt",
+            "descricao": "Procuramos um analista de marketing criativo para impulsionar nossa presença online. Experiência em campanhas digitais e análise de métricas é essencial."
+        },
+        {
+            "cargo": "Designer Gráfico",
+            "empresa": "CreativeDesign",
+            "localizacao": "Lisboa, Portugal",
+            "contato": "contato@creativedesign.pt",
+            "descricao": "Estamos à procura de um designer gráfico criativo e experiente para colaborar em projetos emocionantes. Habilidades em Adobe Creative Suite são essenciais."
+        },
+        {
+            "cargo": "Desenvolvedor Full Stack",
+            "empresa": "CodeMasters",
+            "localizacao": "Salvador, BA",
+            "contato": "contato@codemasters.com.br",
+            "descricao": "Procuramos um desenvolvedor full stack para se juntar à nossa equipe dinâmica. Experiência em frameworks como Django e React é uma vantagem."
+        },
+        {
+            "cargo": "Analista de Sistemas",
+            "empresa": "TechSolutions",
+            "localizacao": "Manaus, AM",
+            "contato": "contato@techsolutions.com.br",
+            "descricao": "Estamos em busca de um analista de sistemas com sólidos conhecimentos em Java e Oracle. Certificação em desenvolvimento Java é desejada."
+        },
+        {
+            "cargo": "Designer de Produto",
+            "empresa": "InnovateDesign",
+            "localizacao": "Brasília, DF",
+            "contato": "contato@innovatedesign.com.br",
+            "descricao": "Procuramos um designer de produto talentoso para criar soluções inovadoras. Experiência em prototipagem e colaboração cross-functional é essencial."
+        },
+        {
+            "cargo": "Especialista em Redes",
+            "empresa": "NetworkPro",
+            "localizacao": "Porto Alegre, RS",
+            "contato": "contato@networkpro.com.br",
+            "descricao": "Estamos à procura de um especialista em redes com habilidades em configuração e manutenção de ambientes de rede complexos. Certificação Cisco é um diferencial."
+        },
+        {
+            "cargo": "Analista de Qualidade de Software",
+            "empresa": "QualityTech",
+            "localizacao": "Fortaleza, CE",
+            "contato": "contato@qualitytech.com.br",
+            "descricao": "Procuramos um analista de qualidade de software para garantir a entrega de produtos de alta qualidade. Experiência em testes automatizados é desejada."
+        },
+        {
+            "cargo": "UX/UI Designer",
+            "empresa": "UserExperience",
+            "localizacao": "Curitiba, PR",
+            "contato": "contato@userexperience.com.br",
+            "descricao": "Estamos em busca de um designer focado em proporcionar experiências excepcionais ao usuário. Conhecimento em design responsivo e prototipagem é essencial."
+        },
+        {
+            "cargo": "Engenheiro de DevOps",
+            "empresa": "DevOpsInnovate",
+            "localizacao": "Recife, PE",
+            "contato": "contato@devopsinnovate.com.br",
+            "descricao": "Procuramos um engenheiro de DevOps para otimizar nossos processos de desenvolvimento e entrega contínua. Experiência em ferramentas como Jenkins e Docker é desejada."
+        },
+        {
+            "cargo": "Analista de BI",
+            "empresa": "DataInsights",
+            "localizacao": "Belo Horizonte, MG",
+            "contato": "contato@datainsights.com.br",
+            "descricao": "Estamos expandindo nossa equipe de Business Intelligence. Procuramos um analista com habilidades em SQL, Power BI e modelagem de dados."
+        },
+        {
+            "cargo": "Desenvolvedor Python",
+            "empresa": "PythonCraft",
+            "localizacao": "São Paulo, SP",
+            "contato": "contato@pythoncraft.com.br",
+            "descricao": "Procuramos um desenvolvedor Python apaixonado por criar soluções robustas. Experiência em frameworks como Django é uma vantagem."
+        },
+        {
+            "cargo": "Analista de Suporte Técnico",
+            "empresa": "TechSupport",
+            "localizacao": "Porto, Portugal",
+            "contato": "contato@techsupport.pt",
+            "descricao": "Estamos à procura de um analista de suporte técnico para fornecer assistência eficiente aos nossos usuários. Experiência em ambientes Windows e Linux é essencial."
+        },
+        {
+            "cargo": "Scrum Master",
+            "empresa": "AgileMinds",
+            "localizacao": "Lisboa, Portugal",
+            "contato": "contato@agileminds.pt",
+            "descricao": "Procuramos umgil de software. Certificação Scrum Master é desejada."
+        },
+        {
+            "cargo": "Desenvolvedor React",
+            "empresa": "ReactCrafters",
+            "localizacao": "Faro, Portugal",
+            "contato": "contato@reactcrafters.pt",
+            "descricao": "Estamos em busca de um desenvolvedor React para contribuir para nossos projetos inovadores. Experiência em JavaScript e React é essencial."
+        },
+        {
+            "cargo": "Analista de Marketing Digital",
+            "empresa": "DigitalTrends",
+            "localizacao": "Lisboa, Portugal",
+            "contato": "contato@digitaltrends.pt",
+            "descricao": "Procuramos um analista de marketing digital para impulsionar nossa presença online. Experiência em SEO e campanhas digitais é essencial."
+        },
+        {
+            "cargo": "Analista de Recursos Humanos",
+            "empresa": "TalentHub",
+            "localizacao": "Lisboa, Portugal",
+            "contato": "contato@talenthub.pt",
+            "descricao": "Estamos à procura de um analista de recursos humanos para liderar nossas iniciativas de recrutamento. Experiência em seleção, entrevistas e gestão de talentos é essencial."
+        },
+        {
+            "cargo": "Engenheiro de Redes",
+            "empresa": "NetworkInnovate",
+            "localizacao": "Lisboa, Portugal",
+            "contato": "contato@networkinnovate.pt",
+            "descricao": "Procuramos um engenheiro de redes para projetar e implementar soluções de rede avançadas. Experiência em Cisco e protocolos de rede é desejada."
+        },
+        {
+            "cargo": "Desenvolvedor Java",
+            "empresa": "JavaPros",
+            "localizacao": "Lisboa, Portugal",
+            "contato": "contato@javapros.pt",
+            "descricao": "Estamos em busca de um desenvolvedor Java para contribuir para nossos projetos. Experiência em Spring, Hibernate e APIs REST é essencial."
+        },
+        {
+            "cargo": "Analista Financeiro",
+            "empresa": "FinanceInsights",
+            "localizacao": "Lisboa, Portugal",
+            "contato": "contato@financeinsights.pt",
+            "descricao": "Procuramos um analista financeiro para gerenciar nossas operações financeiras. Experiência em contabilidade e análise de dados financeiros é necessária."
+        },
+        {
+            "cargo": "Designer de Interfaces",
+            "empresa": "InterfaceDesign",
+            "localizacao": "Lisboa, Portugal",
+            "contato": "contato@interfacedesign.pt",
+            "descricao": "Estamos à procura de um designer de interfaces talentoso para criar designs atraentes e intuitivos. Experiência em ferramentas de design é essencial."
+        },
+        {
+            "cargo": "Analista de Suporte Técnico",
+            "empresa": "TechAssist",
+            "localizacao": "Lisboa, Portugal",
+            "contato": "contato@techassist.pt",
+            "descricao": "Procuramos um analista de suporte técnico para fornecer suporte eficiente aos nossos usuários. Experiência em solução de problemas de hardware e software é desejada."
+        },
+        {
+            "cargo": "Cientista de Dados",
+            "empresa": "DataSciencePro",
+            "localizacao": "Lisboa, Portugal",
+            "contato": "contato@datasciencepro.pt",
+            "descricao": "Estamos em busca de um cientista de dados para analisar grandes conjuntos de dados e fornecer insights valiosos. Experiência em Python, R e machine learning é essencial."
+        }
+    ]
+}
+
+
+

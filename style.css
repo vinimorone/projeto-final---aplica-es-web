@@ -1,0 +1,120 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: #f2f2f2; /* Tom de cinza claro */
+    margin: 0;
+    color: #333; /* Tom de cinza escuro */
+}
+
+header {
+    background: #66cccc; /* Azul esverdeado claro */
+    color: #fff; /* Branco */
+    text-align: center;
+    padding: 1em 0;
+}
+
+#filter, footer {
+    background-color: #333; /* Tom de cinza escuro */
+    color: #fff; /* Branco */
+    padding: 1em;
+    text-align: center;
+}
+
+#filter h2, footer p {
+    margin: 0;
+}
+
+#jobSearchForm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1em;
+    flex-wrap: wrap; /* Adicionado para garantir que os elementos se ajustem em telas menores */
+}
+
+#jobSearchForm label {
+    margin-right: 1em;
+    margin-bottom: 0.5em; /* Adicionado espaço entre a barra e a palavra "Buscar" */
+}
+
+#searchTerm {
+    padding: 0.5em;
+    font-size: 0.8em; /* Reduza o tamanho da fonte para 0.8em */
+    border: none;
+    border-radius: 5px;
+    margin-right: 8px; /* Adicione espaço à direita da barra de pesquisa */
+    width: 100%; /* Preenche toda a largura disponível */
+}
+
+button {
+    padding: 0.5em 1em;
+    font-size: 1em;
+    background-color: #66cccc; /* Azul esverdeado claro */
+    color: #fff; /* Branco */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+button:hover {
+    background-color: #338080; /* Azul esverdeado mais escuro */
+}
+
+#lista-empregos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 1em;
+}
+
+.proposta {
+    background-color: #fff; /* Branco */
+    color: #333; /* Tom de cinza escuro */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 1em;
+    padding: 1em;
+    width: calc(33.333% - 2em); /* Preenche 1/3 da largura com margens de 1em */
+    transition: transform 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+.proposta:hover {
+    transform: scale(1.05);
+}
+
+.cargo {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #338080; /* Azul esverdeado mais escuro */
+}
+
+.detalhes {
+    color: #66cccc; /* Azul esverdeado claro */
+    margin-top: 0.5em;
+}
+
+.descricao {
+    margin-top: 1em;
+    color: #666; /* Cinza médio */
+}
+
+footer {
+    margin-top: auto;
+    padding-top: 1em;
+}
+
+/* Adiciona estilos para telas menores que 600 pixels */
+@media only screen and (max-width: 600px) {
+    #searchTerm {
+        margin-right: 0; /* Remove a margem à direita na barra de pesquisa em telas menores */
+    }
+
+    #jobSearchForm label {
+        margin-right: 0; /* Remove a margem à direita na etiqueta em telas menores */
+    }
+
+    .proposta {
+        width: calc(100% - 2em); /* Preenche toda a largura com margens de 1em em telas menores */
+    }
+}
